@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+tf_env310/
+
+# Datasets and large files
+dataset/
+dataset.zip
+
+# Model files
+*.keras
+*.h5
+
+# Editor and system files
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reports and results
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+results.txt
